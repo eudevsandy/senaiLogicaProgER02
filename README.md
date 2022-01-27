@@ -1,5 +1,5 @@
 # Lógica de Programação - SENAI
-Controle de alunos para atividade referente a unidade de Lógica de Programação do curso de programação back-end (SENAI)
+Contagem de alunos para atividade referente a unidade de Lógica de Programação do curso de programação back-end (SENAI)
 
 #### Situação:
 A empresa Savinis, focada no desenvolvimento de software de alta performance, contratou você para realizar o desenvolvimento de um sistema de controle de alunos de uma escola. 
